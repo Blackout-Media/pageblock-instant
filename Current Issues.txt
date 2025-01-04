@@ -1,0 +1,3 @@
+Sometimes I receive an error screen, sometimes I see the section being pasted into instant but it suddenly gets removed.
+
+Current state is not inserting text / image / icons so I can understand better the types of instant.
